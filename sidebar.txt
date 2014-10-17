@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[waj:home|Door43 (waj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-waj|d43-waj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-waj/archive/master.zip|d43-waj.zip]]
+
+**Recent Changes**
+{{changes>ns = waj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/waj|Ethnologue data]]
+
